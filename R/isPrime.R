@@ -20,5 +20,5 @@ is.prime <- function(p){
     i<-i+2
   }
   if(d==0) cat(p," is prime")
-  else cat(p," isnt prime")
+  else cat(p," is not prime")
 }
