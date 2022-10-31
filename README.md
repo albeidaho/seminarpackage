@@ -16,15 +16,15 @@ library(roxygen2) ;
 # Step 3: Set working directory
 
 ## R code:
-setwd("extract_location/seminarpackage-main")
-setwd("..")
+setwd("extract_location/seminarpackage-main");
+setwd("..");
 
 # Step 4: Install the package
 
 ## R code:
-install("seminarpackage-main")
+install("seminarpackage-main");
 
 # Step 5: Load the package
 
 ## R code:
-library(seminarpackage)
+library(seminarpackage);
