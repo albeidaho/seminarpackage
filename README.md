@@ -1,7 +1,4 @@
-# seminarpackage
-UIdaho 501 seminar package
-
-HOW TO INSTALL ON YOUR LOCAL COMPUTER:
+# Install seminarpackage on your local computer
 
 # Step 1: install and extract
 
